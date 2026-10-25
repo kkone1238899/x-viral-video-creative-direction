@@ -6,7 +6,7 @@
 > 
 > Each entry answers two questions: what problem it solves (and who it's for), and how to make money with it.
 > 
-> Star counts verified via GitHub API on 2026-10-12. Continuously updated.
+> Star counts verified via GitHub API on 2026-10-25. Continuously updated.
 
 ## 条目
 
@@ -21,7 +21,7 @@
 
 **怎么用它搞钱**：品牌短片创意代做——按"一句话出片"接品牌/商家的 AI 广告单。
 
-**来源**：[Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) · ⭐260 · 更新于 2026-08-09
+**来源**：[Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) · ⭐265 · 更新于 2026-08-09
 
 ### AI TVC 广告创意导演（Ethanxwang/tvc-director）
 
@@ -34,7 +34,7 @@
 
 **怎么用它搞钱**：TVC 广告片代做，按条/按项目收费；给电商品牌做产品电影化广告。
 
-**来源**：[Ethanxwang/tvc-director](https://github.com/Ethanxwang/tvc-director) · ⭐326 · 更新于 2026-04-18
+**来源**：[Ethanxwang/tvc-director](https://github.com/Ethanxwang/tvc-director) · ⭐337 · 更新于 2026-04-18
 
 ### 方法论驱动的 AI 创意总监（smixs/creative-director-skill）
 
@@ -47,7 +47,7 @@
 
 **怎么用它搞钱**：品牌创意提案代做、广告 campaign 创意咨询，按项目收费。
 
-**来源**：[smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) · ⭐251 · 更新于 2026-08-08
+**来源**：[smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) · ⭐275 · 更新于 2026-08-08
 
 ### 广告公司岗位 Skill 包（kratosxxxxxx/Agency-Workflow-skills）
 
@@ -60,7 +60,7 @@
 
 **怎么用它搞钱**：品牌全案/整合营销提案代做，按项目收费；把流程标准化后做成 SOP 卖给同行。
 
-**来源**：[kratosxxxxxx/Agency-Workflow-skills](https://github.com/kratosxxxxxx/Agency-Workflow-skills) · ⭐99 · 更新于 2026-05-24
+**来源**：[kratosxxxxxx/Agency-Workflow-skills](https://github.com/kratosxxxxxx/Agency-Workflow-skills) · ⭐107 · 更新于 2026-05-24
 
 ### AI 短视频工业化生产 5 步法（@Ox_Shinji）
 
@@ -128,12 +128,106 @@
 **怎么用它搞钱**：产品 TVC 代做——以"产品零变形"作为卖点向电商/3C 品牌收费；把预演流程标准化成服务 SOP 复用。
 
 **来源**：[@Jiangjiefu](https://x.com/Jiangjiefu/status/2109627264988221900) · 2026-10-12
+### 创意总监第一纪律：剧本先行，视频最后（@BDFrankHoubre）
+
+**核心提炼**
+- 解决什么问题：AI 片子多半不是死在模型上，而是死在剧本上——故事本身不成立，换再好的模型也救不回来，只会白白烧掉 credits。
+- 核心用法（3 步）：1) 先诊断故事：这个故事本身站得住吗，有没有值得拍的冲突和走向；2) 严格按顺序推进：手写剧本 → 分镜 → 最后才是视频生成，视频是最后一环不是第一环；3) 烧 credits 之前先审故事：故事没过关就别开生成，生成解决不了剧本问题。
+- 什么时候用 / 常见坑：开新片、想换模型"碰运气"的时候先用这条自查；坑：别把"换模型"当成改故事的替代品，模型升级掩盖不了故事漏洞。
+- 实证：作者 Lost Garden 第 2 集就是按这个顺序做的——先手写剧本，再画分镜，最后才生成视频。
+
+**适用场景**：AI 短片、短剧开工前的创意决策；团队里"模型不行"争论不断时的定盘星。
+
+**怎么用它搞钱**：接片前先收"剧本诊断/故事会"环节的费用——帮客户把故事立住再开生成，既省算力成本，也显得专业。
+
+**来源**：[@BDFrankHoubre](https://x.com/BDFrankHoubre/status/2114041052004810768) · 2026-10-25
+
+### 品牌联名 reaction 视频的创意简报铁律：露出必须明明白白（@dongqingtry）
+
+**核心提炼**
+- 解决什么问题：联名广告拍得很热闹，观众看完却没注意到品牌——创意执行没把"品牌露出"当成硬性要求写进简报。
+- 核心用法（4 步）：1) 场景要具体：宠物店里自拍这种真实场景，而不是空泛的"好玩"；2) 用动作转折串产品：饮料突然脱手 → 镜头顺势转向产品盒，现场反应和产品画面由一个动作连起来；3) 露出写进简报当硬指标：Burrow Buddy × PetSmart 的联名露出必须明明白白，不能"看完都没注意到品牌"；4) AI 只是组织创意的工具：让 Claude 写提示词没问题，但真正决定成片有没有达到目的的，是场景、动作转折、品牌露出这些细节有没有落实。
+- 什么时候用 / 常见坑：做品牌联名、种草 reaction 类视频时；坑：别只验收"视频好不好看"，要验收"品牌有没有被看见、被记住"。
+
+**适用场景**：品牌联名视频、宠物/消费品 reaction 广告的创意简报。
+
+**怎么用它搞钱**：联名广告创意代做——以"露出可验收"作为卖点向品牌方收费；或把"简报三要素（场景+转折+露出）"做成接单检查清单。
+
+**来源**：[@dongqingtry](https://x.com/dongqingtry/status/2114050024254656582) · 2026-10-25
+
+### 热点进简报的三段式产品广告结构（@JacobyoungAI）
+
+**核心提炼**
+- 解决什么问题：活动期产品广告和日常内容长得一样，没有"当下感"——因为简报里根本没写进热点。
+- 核心用法（4 步）：1) 把当下热点写进 campaign brief，而不是事后硬蹭；2) 先备好自家素材上传；3) 用三段式结构下指令：以原创热点片段开场（例：特斯拉飞车片段）→ 切到产品关键细节 → 以发布信息收尾；4) 让 ChatGPT 桌面端理解指令后调用 CapCut Web 生成可编辑的视频草稿，再人工精修。
+- 什么时候用 / 常见坑：新品发布、活动期借势广告；坑：热点片段必须是自家原创素材，别直接搬运他人热点视频；三段式里"产品细节"一段不能省，否则就成了纯热点视频、产品没露出。
+- 时效注明：原帖为 CapCut World 活动相关帖（带 #CapCutWorld 标签），方法本身可复用；当时插件仅 ChatGPT 桌面端 early access，移动/网页端预计 11 月中上线。
+
+**适用场景**：新品发布、活动期借势的产品广告快剪。
+
+**怎么用它搞钱**：热点借势广告快剪服务——活动期按条收费，热点+三段式模板复用后出片快。
+
+**来源**：[@JacobyoungAI](https://x.com/JacobyoungAI/status/2114103553023443217) · 2026-10-25
+
+### 3 分钟 AI 视频广告低成本全流程：480p 生成 + 本地超分（@Justin_lords）
+
+**核心提炼**
+- 解决什么问题：3 分钟 AI 长广告动辄被认为要花 200 美元——其实是生成分辨率和云端超分两处在烧钱。
+- 核心用法（5 步）：1) 结构先行：把爆款参考广告喂给 Gemini 或 Claude，用主提示词抽出"Day 1 到 Day 14"的 VSL 脚本结构，并生成锁定的首帧角色锚点，保证两名女性在草药房、厨房、卫生间三个场景里 100% 一致；2) 生成全部降档：talking-head 和双人场景一律用 Seedance 2.5（或 Google Flow 上的 OmniFlash）以 480p 生成——Seedance 2.5 原生一次性生成真实语音和节奏，不用再买 ElevenLabs；3) 超分走本地：480p 片段用本地 ComfyUI 超分模型提到 1080p/4K，可锐化皮肤质感、眼镜和光线，本地算力成本为 0；4) 结尾加真实感：最后 5 秒用真实手机实拍（真实补剂袋和店铺页面），再用 Claude Code + 本地 FFmpeg 或 Claude MCP Premiere Pro 连接拼接完整 3 分钟时间线并自动烧录动态字幕；5) 成本账：整条约 18 美元 480p credits + 免费本地超分，对比 200 美元量级。
+- 什么时候用 / 常见坑：保健品、消费品 VSL 式长广告投放素材；坑：480p 生成时角色锚点必须先锁死，否则超分会放大不一致；结尾真实 B-roll 不能省，它是"真产品"的信任锚。
+- 注：原帖尾部含作者算力供应商推销，已剔除，未计入方法。
+
+**适用场景**：保健品、消费品的 3 分钟 VSL 长广告；需要批量出投放素材的广告团队。
+
+**怎么用它搞钱**：低成本长广告代制作——以"18 美元级成本出 3 分钟广告"作为报价优势，按条或按投放组收费。
+
+**来源**：[@Justin_lords](https://x.com/Justin_lords/status/2113951196532851065) · 2026-10-24
+
+### 导演简报驱动的角色动画工作室：Opus 5.5 + Blender + Remotion（@dustADD）
+
+**核心提炼**
+- 解决什么问题：角色动画想做成"工作室级"却没有可复制的流程——缺的不是模型，而是从简报到交付的一条链。
+- 核心用法（6 步）：1) 先给 Claude 一份导演简报：一个角色、一个场景、一个视觉笑点；动手搭场景前先定好镜头、表情、运镜和收尾姿势；2) 把 Claude Code 接上 Blender：Blender MCP 让 Claude 读取场景、直接写 Blender Python，装好 Blender 和 uv 后运行 `claude mcp add blender uvx mcp-for-blender`、`uvx mcp-for-blender install-addon`，再在 Blender 里启用插件、启动服务；3) 搭建 + 动画：场景、绑定、关键帧、角色动画都交给 Blender，先粗摆布局和角色，再加走路、眼神、玻璃和特写；4) 给世界打光：Poly Haven 有免费可商用（CC0）的 HDRI、材质和模型，让玻璃有东西可反射，让角色在背景里依然醒目；5) 合成成片：Remotion 把渲染素材、标题和音频拼成可复用的合成，项目里加上官方 AI 指南 `npx skills add remotion-dev/skills`；6) 导出 + 检查：用 FFmpeg 出交付文件，一定要看一遍真实 MP4、听一遍声音，并保留可编辑的场景和工程。
+- 什么时候用 / 常见坑：做微缩世界、有灵魂的角色、电影级运镜的动画短片；坑：简报三要素没定就别开搭，否则返工全在场景里；交付前实看实听不能省。
+
+**适用场景**：角色动画短片、微缩世界风格内容、想把动画做成固定工作室产能的创作者。
+
+**怎么用它搞钱**：角色动画短片代做——按"简报→场景→成片"全链路收费；或把这套工作室流程做成教程/训练营。
+
+**来源**：[@dustADD](https://x.com/dustADD/status/2113885201852146089) · 2026-10-24
+
+### 跨镜头统一风格对：MAPPA + Nolan 式视觉定调（@BDFrankHoubre）
+
+**核心提炼**
+- 解决什么问题：多镜头 AI 短片风格越拍越散——因为每个镜头都在重新发明风格，没有统一的视觉锚。
+- 核心用法（3 步）：1) 定一对风格：一个动画厂牌 + 一个真人导演（例：MAPPA + Christopher Nolan），风格对本身就是反差和记忆点；2) 每个镜头的提示词都写同一风格对：Lost Garden 第 2 集前 1 分钟的 7 条 Seedance 提示词全部要求同一风格对，不换写法；3) 在首镜写明风格的用途：Nolan 风格在第 1 镜的任务是"both knights dwarfed by the scale"——两名骑士被宏大尺度衬得渺小，即用尺度反差定视觉基调，而不是只贴一个风格标签。
+- 什么时候用 / 常见坑：多镜头短片、剧集的风格统一；坑：风格对只写名字不够，要写出它在画面里具体负责什么（尺度、光线、构图中的哪一项）。
+
+**适用场景**：多镜头 AI 短片、剧集的视觉风格定调；需要"一眼统一"的系列内容。
+
+**怎么用它搞钱**：风格圣经定调服务——按"风格对 + 首镜用途说明"给短剧/短片项目出视觉定调方案收费。
+
+**来源**：[@BDFrankHoubre](https://x.com/BDFrankHoubre/status/2113980794595324043) · 2026-10-24
+
+### Seedance 2.5 TVC 导演 Skill：从 brief 到可复用提示词（nutllwhy/seedance-tvc-director）
+
+**核心提炼**
+- 解决什么问题：视频模型能出漂亮画面，但商业广告还要回答：前 3 秒有没有抓住注意力、30 秒有没有增加新信息而不是把 15 秒拉长、产品有没有参与故事因果、旁白有没有只说一次且卡准节奏、失败后能不能只修坏掉的那一层。
+- 核心用法（4 步）：1) 给产品 brief + 参考图 + 传播目标，Skill 输出 15 秒、30 秒或自定义时长的 TVC 策略、导演执行单、分镜预览与可复制视频提示词；2) 六个互不绑定的选项一次确认：时长、声音（有旁白/无旁白/两套全出）、生成方式（直出/九宫格预览）、模型（推荐/指定）、段数（单段/多段/自动）、节奏与镜头密度（快节奏商业版默认 16 镜）；3) 质量门内置：0–3 秒钩子与首尾状态检查、30 秒多场景推进与反重复控制、唯一旁白真源与硬停止时间、产品动作真实受力链、hero reveal 与 packshot 预算检查；4) 失败只修证据指向的层：根据生成成片的时间码证据给出局部重试方案，不推翻已成功的部分。
+- 什么时候用 / 常见坑：品牌 TVC、产品广告片；坑：九宫格只负责 9 个关键状态，不限制最终镜头数；30 秒优先 Seedance 2.5 单段直出，别因旧习惯自动拆成两段。
+
+**适用场景**：品牌 TVC、产品广告片的导演级提示词生产；接品牌广告单的 AI 视频团队。
+
+**怎么用它搞钱**：TVC 广告片代做——按"策略+执行单+提示词"全套交付收费；或把 15/30 秒模板沉淀为自己的接单 SOP。
+
+**来源**：[nutllwhy/seedance-tvc-director](https://github.com/nutllwhy/seedance-tvc-director) · ⭐325 · MIT · 更新于 2026-10-21（GitHub API 核验；最近代码提交 2026-09-03）
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
 - 收录线：star > 20 且一年内有更新；不达标的条目移除
 - 每条格式：核心提炼（解决什么问题 / 核心用法 3–5 步 / 什么时候用和常见坑）+ 适用场景 + 怎么用它搞钱 + 来源
-- Star 数为 2026-10-12 经 GitHub API 核验；持续收录中
+- Star 数为 2026-10-25 经 GitHub API 核验；持续收录中
 - 去重：同一项目只收录一次，不堆 raw 链接
 
 ## 相关分类
@@ -158,6 +252,7 @@
 
 ## 更新日志
 
+- 2026-10-25：早档 X 6 条（@BDFrankHoubre 剧本先行、@dongqingtry 联名露出铁律、@JacobyoungAI 热点三段式、@Justin_lords 480p 低成本长广告、@dustADD 导演简报动画工作室、@BDFrankHoubre 跨镜头风格对）+ GitHub 1 个（nutllwhy/seedance-tvc-director）；老条目 star 刷新（265/337/275/107）；共 16 条
 - 2026-10-12：晚档 X 5 条（@Ox_Shinji 工业化 5 步法、@JokerLiu1119 导演风格圣经 7 卡、@swordBluesy Three.js 白模 previs、@Justin_lords 音乐广告 brief 六要素+闭环、@Jiangjiefu Blender+Seedance 产品 TVC 白模）；共 9 条
 - 2026-10-12：条目改小节格式（核心提炼/适用场景/怎么用它搞钱/来源）；新增 Ethanxwang/tvc-director、smixs/creative-director-skill、kratosxxxxxx/Agency-Workflow-skills；共 4 条
 - 2026-10-11：首版，1 个项目，持续收录中
